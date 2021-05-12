@@ -82,10 +82,20 @@
       {
         "type": "action",
         "template": "action",
-        "label": "Twitter",
-        "url": "https://twitter.com/",
+        "label": "GitHub",
+        "url": "https://github.com/fencermonir",
         "style": "icon",
-        "icon_class": "fa-twitter",
+        "icon_class": "fa-github",
+        "new_window": true,
+        "no_follow": false
+      },
+      {
+        "type": "action",
+        "template": "action",
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/",
+        "style": "icon",
+        "icon_class": "fa-linkedin",
         "new_window": true,
         "no_follow": false
       },
@@ -106,16 +116,6 @@
         "url": "https://dribbble.com/",
         "style": "icon",
         "icon_class": "fa-dribbble",
-        "new_window": true,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "LinkedIn",
-        "url": "https://www.linkedin.com/",
-        "style": "icon",
-        "icon_class": "fa-linkedin",
         "new_window": true,
         "no_follow": false
       }
