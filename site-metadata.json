@@ -1,128 +1,116 @@
 {
-  "title": "Monir Hossain Portfolio",
-  "description": "",
-  "color_scheme": "light",
-  "accent_color": "pink",
-  "header": {
-    "type": "header",
-    "template": "header",
-    "title": "MONIR HOSSAIN",
-    "has_nav": true,
-    "nav_links": [
-      {
-        "type": "action",
-        "template": "action",
-        "label": "Home",
-        "url": "/",
-        "style": "link",
-        "icon_class": "",
-        "new_window": false,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "Portfolio",
-        "url": "/portfolio/",
-        "style": "link",
-        "icon_class": "",
-        "new_window": false,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "Blog",
-        "url": "/blog/",
-        "style": "link",
-        "icon_class": "",
-        "new_window": false,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "Style Guide",
-        "url": "/style-guide/",
-        "style": "link",
-        "icon_class": "",
-        "new_window": false,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "About",
-        "url": "/about/",
-        "style": "link",
-        "icon_class": "",
-        "new_window": false,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "Contact",
-        "url": "/contact/",
-        "style": "link",
-        "icon_class": "",
-        "new_window": false,
-        "no_follow": false
-      }
-    ],
-    "logo_img": "",
-    "logo_img_alt": ""
-  },
-  "footer": {
-    "type": "footer",
-    "template": "footer",
-    "content": "&copy; All rights reserved.",
-    "has_social": true,
-    "social_links": [
-      {
-        "type": "action",
-        "template": "action",
-        "label": "GitHub",
-        "url": "https://github.com/fencermonir",
-        "style": "icon",
-        "icon_class": "fa-github",
-        "new_window": true,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "LinkedIn",
-        "url": "https://www.linkedin.com/",
-        "style": "icon",
-        "icon_class": "fa-linkedin",
-        "new_window": true,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "Instagram",
-        "url": "https://www.instagram.com/",
-        "style": "icon",
-        "icon_class": "fa-instagram",
-        "new_window": true,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "Dribbble",
-        "url": "https://dribbble.com/",
-        "style": "icon",
-        "icon_class": "fa-dribbble",
-        "new_window": true,
-        "no_follow": false
-      }
-    ],
-    "links": [
-
-    ]
-  },
-  "favicon": ""
+    "title": "Monir Hossain Portfolio",
+    "description": "",
+    "color_scheme": "light",
+    "accent_color": "pink",
+    "header": {
+        "type": "header",
+        "template": "header",
+        "title": "MONIR HOSSAIN",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "type": "action",
+                "template": "action",
+                "label": "Home",
+                "url": "/",
+                "style": "link",
+                "icon_class": "",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "type": "action",
+                "template": "action",
+                "label": "Portfolio",
+                "url": "/portfolio/",
+                "style": "link",
+                "icon_class": "",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "type": "action",
+                "template": "action",
+                "label": "Blog",
+                "url": "/blog/",
+                "style": "link",
+                "icon_class": "",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "type": "action",
+                "template": "action",
+                "label": "About",
+                "url": "/about/",
+                "style": "link",
+                "icon_class": "",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "type": "action",
+                "template": "action",
+                "label": "Contact",
+                "url": "/contact/",
+                "style": "link",
+                "icon_class": "",
+                "new_window": false,
+                "no_follow": false
+            }
+        ],
+        "logo_img": "",
+        "logo_img_alt": ""
+    },
+    "footer": {
+        "type": "footer",
+        "template": "footer",
+        "content": "&copy; All rights reserved.",
+        "has_social": true,
+        "social_links": [
+            {
+                "type": "action",
+                "template": "action",
+                "label": "GitHub",
+                "url": "https://github.com/fencermonir",
+                "style": "icon",
+                "icon_class": "fa-github",
+                "new_window": true,
+                "no_follow": false
+            },
+            {
+                "type": "action",
+                "template": "action",
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/",
+                "style": "icon",
+                "icon_class": "fa-linkedin",
+                "new_window": true,
+                "no_follow": false
+            },
+            {
+                "type": "action",
+                "template": "action",
+                "label": "Instagram",
+                "url": "https://www.instagram.com/",
+                "style": "icon",
+                "icon_class": "fa-instagram",
+                "new_window": true,
+                "no_follow": false
+            },
+            {
+                "type": "action",
+                "template": "action",
+                "label": "Dribbble",
+                "url": "https://dribbble.com/",
+                "style": "icon",
+                "icon_class": "fa-dribbble",
+                "new_window": true,
+                "no_follow": false
+            }
+        ],
+        "links": []
+    },
+    "favicon": ""
 }
